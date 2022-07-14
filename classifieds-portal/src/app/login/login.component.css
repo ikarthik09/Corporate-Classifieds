@@ -1,0 +1,40 @@
+.login-content {
+    width: 40%;
+    margin: 5% 30%;
+    padding: 50px 40px;
+    color: white;
+    background-color: lightcoral;
+    border-radius: 5%;
+    border-width: thick;
+}
+
+.login-content>h1 {
+    margin-bottom: 50px;
+}
+
+.login-content>form>input {
+    margin-bottom: 20px;
+}
+
+.login-content>form>label {
+    font-size: 17px;
+    margin: 2px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.login-content>form>button {
+    margin-top: 20px;
+    padding: 10px 20px;
+}
+
+.alert.alert-danger {
+    padding: 10px;
+}
+
+button {
+    color: white !important;
+    background-color:  rgba(98, 7, 57, 0.867) !important;
+
+}
+

@@ -1,0 +1,11 @@
+.offer-details-content {
+    margin-top: 2%;
+}
+
+.offer-details-content>h1 {
+    font-weight: 100;
+}
+
+.btn-success{
+  background-color: rgba(98, 7, 57, 0.867) ;
+}

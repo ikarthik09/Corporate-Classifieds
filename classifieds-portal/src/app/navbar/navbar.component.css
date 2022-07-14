@@ -1,0 +1,16 @@
+.navbar-nav {
+    margin-right: 150px;
+}
+
+.navbar-nav>li {
+    margin-right: 30px;
+}
+
+nav {
+    background-color: #AC3B61 !important;
+}
+
+a.nav-link {
+    opacity: 1 !important;
+    color: white !important;
+}
